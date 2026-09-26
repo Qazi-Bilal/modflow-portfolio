@@ -1,0 +1,18 @@
+# MODFLOW model folders (recreated by running the scripts)
+model/
+simulations/
+first_model/
+tracer_model/
+ex-gwt-mt3dms-p09/
+output/
+log_*.txt
+exp_*.py
+
+# Python / editor
+__pycache__/
+*.pyc
+.vscode/
+
+# MODFLOW programs (download from USGS instead)
+*.exe
+*.dll
